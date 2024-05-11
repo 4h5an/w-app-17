@@ -1,0 +1,54 @@
+[
+    {
+        "domain": ".whatsapp.com",
+        "expirationDate": 1748254387.5076,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ps_n",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".web.whatsapp.com",
+        "expirationDate": 1717806594,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "wa_web_lang_pref",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "en_GB"
+    },
+    {
+        "domain": ".whatsapp.com",
+        "expirationDate": 1748254387.50771,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ps_l",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".whatsapp.com",
+        "expirationDate": 1715987123.39,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "wa_lang_pref",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "en"
+    }
+]
